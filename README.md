@@ -1,4 +1,4 @@
-# Olá, eu me chamo Lucas!
+# Olá, eu sou Lucas!
   
 - 🌱 Estou estudando Javascript
 - 🤔 Sou curioso em conhecer novas linguagens

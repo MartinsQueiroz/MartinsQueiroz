@@ -1,8 +1,8 @@
 # Olá, sou Lucas!
   
-- 🌱 Estou estudando Javascript
-- 🤔 Sou curioso em conhecer novas linguagens
-- 📫  Estudo com o foco de me tornar um front-end developer
+-  Estou estudando Javascript
+-  Sou curioso em conhecer novas linguagens
+-  Estudo com o foco de me tornar um front-end developer
 
 <div><br>
   <p>Tecnologias:</p>
@@ -11,7 +11,9 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  
+  <img align="center" alt="Lucas-Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+ 
+ 
 </div>
 
 <div><br>

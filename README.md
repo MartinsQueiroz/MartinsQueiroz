@@ -1,6 +1,6 @@
 # Olá, sou Lucas!
   
--  Estou estudando Javascript
+-  Estou conhecendo Javascript
 -  Sou curioso em conhecer novas linguagens
 -  Estudo com o foco de me tornar um front-end developer
 

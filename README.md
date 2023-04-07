@@ -6,7 +6,9 @@
 
 <div><br>
    <p>Onde me encontrar:</p>
-   <a href="linkedin.com/in/lucas-martins-2a4743201"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
+   <a href="https://www.linkedin.com/in/lucas-martins-2a4743201">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
+   </a>
 </div>
 
 <div><br>

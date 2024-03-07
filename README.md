@@ -1,8 +1,8 @@
-# Olá, sou Lucas!
+# Olá, sou Lucas Martins!
   
--  Estou conhecendo Javascript
--  Sou curioso em conhecer novas linguagens
--  Estudo com o foco de me tornar um front-end developer
+-  Front-end developer
+-  Sempre conhecendo novas linguagens
+-  Estudante de ADS da Faculdade Flamingo
 
 <div><br>
    <p>Onde me encontrar:</p>
